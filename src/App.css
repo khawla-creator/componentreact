@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+  border: 10px solid yellow;
+  border-radius: 50px;
+  margin : 60px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.global-Contenaire-profile {
+ display: flex;
+ border-bottom: 3px solid rgb(41, 43, 38);
+ justify-content: center;
+ 
+}
+
+p {
+  padding: 50px;
+  font-size: 2em;
+  margin-top: 10px;
+  
+}
+
+.full-h {
+  text-align: center;
+  font-size: 4em;
+  margin-top: 70px;
+  margin-right: 30px;
+}
+
+
+.global-Contenaire-profile img {
+ margin: 30px 20px 20px 40px;
+}
+
+.global-contenaire {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: beige;
+  border-radius: 0 0 40px 40px;
+
+}
+
+
+.global-contenaire-one {
+  display: flex;
+  justify-content:space-between;
+  margin-left: 150px;
+  margin-right: 160px;
+ }
+
+ .global-contenaire-one img {
+  padding: 20px;
+  padding-right: 20px;
+  padding-left: 50px;
+}
+
+.spans {
+  display: flex;
+  justify-content:space-between;
+  margin-left: 140px;
+  margin-right: 150px;
+  padding-bottom: 20px;
+}
